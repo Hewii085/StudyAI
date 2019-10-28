@@ -1,0 +1,3 @@
+*.pyc
+*.csv
+/TensorTest/Vision/Yolo/ckpt

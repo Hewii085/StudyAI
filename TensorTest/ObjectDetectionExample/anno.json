@@ -1,0 +1,13 @@
+{
+    "category":
+    [
+        {
+            "id" : 1,
+            "name" : "face"
+        },
+        {
+            "id" : 2,
+            "name" : "leg"
+        }
+    ]
+}
